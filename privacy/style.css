@@ -464,7 +464,7 @@ a {
   .privacypolicybox {
     width: 100% !important;
     margin: 0 auto !important;
-    padding: 80px 0px 60px !important;
+    padding: 60px 0px 40px !important;
   }
 
   .contents-panel h1 {
@@ -500,7 +500,7 @@ a {
   }
 
   .footer {
-    margin-top: 50px;
+    margin-top: 40px;
     padding: 8px;
     background: #060d4a;
   }

@@ -378,7 +378,7 @@ body {
 }
 
 .footer {
-  margin-top: 20px;
+  margin-top: 60px;
   padding: 8px;
   background: #060d4a;
 }
@@ -500,7 +500,7 @@ a {
   }
 
   .footer {
-    margin-top: 0px;
+    margin-top: 50px;
     padding: 8px;
     background: #060d4a;
   }
